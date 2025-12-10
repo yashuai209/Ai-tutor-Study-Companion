@@ -1,0 +1,7 @@
+{
+  "name": "Ai tutor Study Companion",
+  "description": "A voice-activated AI study assistant powered by Gemini Multimodal Live API. Features real-time conversation, audio visualization, and subject-specific study modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
